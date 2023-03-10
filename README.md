@@ -3,8 +3,11 @@
 This is a Java-based command-line application that serves as a Blood Bank Management System. The application uses text files as a database to store the donor and blood bank details.
 
 ## Installation
-To run the application, you need to have Java 8 or higher installed on your system. Clone the repository from GitHub, navigate to the root folder, and run the following command:
-'''
+To run the application, you need to have Java 8 or higher installed on your system. Clone the repository from GitHub.
+
+```
+git clone https://github.com/Piyush-Gambhir/Blood-Bank-Management-System.git
+```
 
 ## Usage 
 Upon running the application, you will be presented with a menu that allows you to choose from the following options:
